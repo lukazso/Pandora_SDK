@@ -1,7 +1,10 @@
 # Pandora_SDK
+
+This is basically the implementation of the original SDK. It contains changes to be compilable in a ROS2 environment.
+
 ## Clone
 ```
-git clone https://github.com/HesaiTechnology/Pandora_SDK.git --recursive
+git clone https://github.com/lukazso/Pandora_SDK.git --recursive
 ```
 
 ## Build
